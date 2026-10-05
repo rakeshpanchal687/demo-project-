@@ -1,4 +1,4 @@
-i=30
-while i<100:
-    print("hello Rakesh",i)
-    i=i+30
+i=1
+while i<5:
+    print(i)
+    i=i+1
